@@ -1,11 +1,12 @@
 .user-list-page {
   > h2 {
+    color: $color-1;
     text-align: center;
-    font-size: 4cdrem;
+    font-size: 3em;
     letter-spacing: 1px;
 
     span {
-      font-size: 1rem;
+      font-size: 2rem;
     }
   }
 }

@@ -1,10 +1,13 @@
 .header {
+  background-image: url(../film.jpg);
+  background-size: 100% 140%;
   h1 {
+    color: $color-1;
     font-size: 4rem;
     // text-shadow: 2px 3px 0px $color-1;
     text-align: center;
     letter-spacing: 2px;
-    padding-bottom: 5%;
+    padding-bottom: 20%;
   }
   nav {
     position: absolute;
